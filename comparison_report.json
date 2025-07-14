@@ -1,0 +1,2870 @@
+{
+  "comparisonDate": "2025-07-14T05:30:26.903Z",
+  "totalComparisons": 100,
+  "results": [
+    {
+      "entryA": {
+        "id": 17311,
+        "name": "Norma Fisher",
+        "title": "UX Designer",
+        "summary": "Magazine truth stop whose group through despite. Example sense peace economy.",
+        "skills": [
+          "SQL",
+          "HTML",
+          "Kubernetes"
+        ]
+      },
+      "match": {
+        "id": 117311,
+        "name": "Norma Fisher",
+        "title": "Product Manager",
+        "summary": "Magazine truth stop whose group through despite. Example sense peace economy.",
+        "skills": [
+          "Kubernetes",
+          "Node.js",
+          "SQL",
+          "HTML"
+        ]
+      },
+      "similarityScore": 0.8945714940484273,
+      "diffSummary": "Title changed from \"UX Designer\" to \"Product Manager\"; Skills updated with addition of \"Node.js\" and reordered, now including Kubernetes, Node.js, SQL, and HTML."
+    },
+    {
+      "entryA": {
+        "id": 17634,
+        "name": "Victoria Patrick",
+        "title": "Product Manager",
+        "summary": "Better available sure form nice. Its particularly tree whom local tend.",
+        "skills": [
+          "AWS",
+          "Node.js",
+          "React",
+          "Kubernetes",
+          "Python",
+          "JavaScript"
+        ]
+      },
+      "match": {
+        "id": 117634,
+        "name": "Victoria Patrick",
+        "title": "Product Manager",
+        "summary": "Better available sure form nice. Its particularly tree whom local tend.",
+        "skills": [
+          "AWS",
+          "Node.js",
+          "React",
+          "Kubernetes",
+          "Python",
+          "JavaScript"
+        ]
+      },
+      "similarityScore": 1,
+      "diffSummary": "No differences"
+    },
+    {
+      "entryA": {
+        "id": 15104,
+        "name": "Robert Dunn",
+        "title": "DevOps Engineer",
+        "summary": "Rest human station property.",
+        "skills": [
+          "SQL",
+          "Python",
+          "HTML",
+          "Docker"
+        ]
+      },
+      "match": {
+        "id": 115104,
+        "name": "Robert Dunn",
+        "title": "Product Manager",
+        "summary": "Rest human station property.",
+        "skills": [
+          "Python",
+          "SQL",
+          "Docker",
+          "HTML",
+          "React"
+        ]
+      },
+      "similarityScore": 0.9069717866218132,
+      "diffSummary": "Title changed from \"DevOps Engineer\" to \"Product Manager\"; Skills updated with addition of React and reordered skill list."
+    },
+    {
+      "entryA": {
+        "id": 16409,
+        "name": "Johnny Dillon",
+        "title": "UX Designer",
+        "summary": "Region as true develop sound central. Language ball floor meet usually board necessary.",
+        "skills": [
+          "AWS",
+          "Docker",
+          "CSS"
+        ]
+      },
+      "match": {
+        "id": 116409,
+        "name": "Johnny Dillon",
+        "title": "UX Designer",
+        "summary": "Region as true develop sound central. Language ball floor meet usually board necessary.",
+        "skills": [
+          "AWS",
+          "Docker",
+          "CSS"
+        ]
+      },
+      "similarityScore": 1,
+      "diffSummary": "No differences"
+    },
+    {
+      "entryA": {
+        "id": 14350,
+        "name": "Kimberly Olsen",
+        "title": "DevOps Engineer",
+        "summary": "White owner onto knowledge other. First drug contain start almost wonder. Live bed serious theory type.",
+        "skills": [
+          "Kubernetes",
+          "HTML",
+          "SQL",
+          "JavaScript",
+          "CSS",
+          "Docker"
+        ]
+      },
+      "match": {
+        "id": 114350,
+        "name": "Kimberly Olsen",
+        "title": "DevOps Engineer",
+        "summary": "White owner onto knowledge other. First drug contain start almost wonder. Live bed serious theory type.",
+        "skills": [
+          "SQL",
+          "Docker",
+          "JavaScript",
+          "Kubernetes",
+          "CSS",
+          "HTML"
+        ]
+      },
+      "similarityScore": 0.995341690747245,
+      "diffSummary": "The two profiles have the same name, title, and summary. The only difference is the order of listed skills; the skills themselves are identical."
+    },
+    {
+      "entryA": {
+        "id": 12528,
+        "name": "Stephanie Leblanc",
+        "title": "UX Designer",
+        "summary": "Study modern miss dog Democrat quickly. Often late produce you true soldier. Food break onto friend.",
+        "skills": [
+          "CSS",
+          "Kubernetes",
+          "AWS"
+        ]
+      },
+      "match": {
+        "id": 112528,
+        "name": "Stephanie Leblanc",
+        "title": "Product Manager",
+        "summary": "Study modern miss dog Democrat quickly. Often late produce you true soldier. Food break onto friend.",
+        "skills": [
+          "Kubernetes",
+          "AWS",
+          "CSS"
+        ]
+      },
+      "similarityScore": 0.9354447869099803,
+      "diffSummary": "Title changed from \"UX Designer\" to \"Product Manager\"; skills reordered but remain the same; summary unchanged."
+    },
+    {
+      "entryA": {
+        "id": 14996,
+        "name": "Alan Nelson",
+        "title": "Product Manager",
+        "summary": "Some forward staff beyond chair recently. Stage plant view.",
+        "skills": [
+          "Node.js",
+          "CSS",
+          "HTML"
+        ]
+      },
+      "match": {
+        "id": 114996,
+        "name": "Alan Nelson",
+        "title": "Product Manager",
+        "summary": "Some forward staff beyond chair recently. Stage plant view.",
+        "skills": [
+          "Python",
+          "CSS",
+          "Node.js",
+          "HTML"
+        ]
+      },
+      "similarityScore": 0.9868456147956418,
+      "diffSummary": "Skills updated: Profile B includes Python in addition to the skills listed in Profile A. Other details remain the same."
+    },
+    {
+      "entryA": {
+        "id": 13334,
+        "name": "Angela Martinez",
+        "title": "DevOps Engineer",
+        "summary": "Store build before street break painting create wife. Look road article quickly.",
+        "skills": [
+          "Python",
+          "CSS",
+          "AWS",
+          "SQL",
+          "Node.js",
+          "JavaScript"
+        ]
+      },
+      "match": {
+        "id": 113334,
+        "name": "Angela Martinez",
+        "title": "DevOps Engineer",
+        "summary": "Store build before street break painting create wife. Look road article quickly.",
+        "skills": [
+          "AWS",
+          "Python",
+          "SQL",
+          "Node.js",
+          "JavaScript",
+          "CSS"
+        ]
+      },
+      "similarityScore": 0.996989622568589,
+      "diffSummary": "There are no meaningful differences between the two profiles; the title, summary, and skills are the same, with only the order of skills differing."
+    },
+    {
+      "entryA": {
+        "id": 15938,
+        "name": "Lisa Huff",
+        "title": "DevOps Engineer",
+        "summary": "Author feeling job article level. Beyond write current grow rule stuff truth college.",
+        "skills": [
+          "Python",
+          "HTML",
+          "AWS",
+          "Docker",
+          "SQL"
+        ]
+      },
+      "match": {
+        "id": 115938,
+        "name": "Lisa Huff",
+        "title": "DevOps Engineer",
+        "summary": "Author feeling job article level. Beyond write current grow rule stuff truth college.",
+        "skills": [
+          "Python",
+          "HTML",
+          "AWS",
+          "Docker",
+          "SQL"
+        ]
+      },
+      "similarityScore": 0.9999995420774138,
+      "diffSummary": "There are no meaningful differences between Profile A and Profile B; both have the same name, title, summary, and skills."
+    },
+    {
+      "entryA": {
+        "id": 14329,
+        "name": "Tracy Brown",
+        "title": "DevOps Engineer",
+        "summary": "Garden economy others kind. Actually race tonight themselves.",
+        "skills": [
+          "Kubernetes",
+          "Python",
+          "Docker",
+          "React",
+          "SQL"
+        ]
+      },
+      "match": {
+        "id": 114329,
+        "name": "Tracy Brown",
+        "title": "UX Designer",
+        "summary": "Garden economy others kind. Actually race tonight themselves.",
+        "skills": [
+          "Kubernetes",
+          "Python",
+          "Docker",
+          "React",
+          "SQL"
+        ]
+      },
+      "similarityScore": 0.9057485639472238,
+      "diffSummary": "Title changed from \"DevOps Engineer\" to \"UX Designer\"; skills and summary remain the same."
+    },
+    {
+      "entryA": {
+        "id": 14966,
+        "name": "Mariah Price",
+        "title": "Product Manager",
+        "summary": "Night actually score from. Name care several.",
+        "skills": [
+          "Node.js",
+          "React",
+          "JavaScript",
+          "SQL"
+        ]
+      },
+      "match": {
+        "id": 114966,
+        "name": "Mariah Price",
+        "title": "UX Designer",
+        "summary": "Night actually score from. Name care several.",
+        "skills": [
+          "Node.js",
+          "React",
+          "JavaScript",
+          "SQL"
+        ]
+      },
+      "similarityScore": 0.9093978435846328,
+      "diffSummary": "Title changed from \"Product Manager\" to \"UX Designer\"; skills and summary remain the same."
+    },
+    {
+      "entryA": {
+        "id": 15260,
+        "name": "Mr. Michael Garza",
+        "title": "UX Designer",
+        "summary": "Resource hold increase practice. Organization recognize civil. Pm her then nothing increase. The nothing sign remember close ask.",
+        "skills": [
+          "Python",
+          "React",
+          "HTML"
+        ]
+      },
+      "match": {
+        "id": 115260,
+        "name": "Mr. Michael Garza",
+        "title": "Software Engineer",
+        "summary": "Resource hold increase practice. Organization recognize civil. Pm her then nothing increase. The nothing sign remember close ask.",
+        "skills": [
+          "React",
+          "Python",
+          "HTML"
+        ]
+      },
+      "similarityScore": 0.9228008129275757,
+      "diffSummary": "Title changed from \"UX Designer\" to \"Software Engineer\"; skill order updated from \"Python, React, HTML\" to \"React, Python, HTML\". Other details remain the same."
+    },
+    {
+      "entryA": {
+        "id": 11633,
+        "name": "Jill Dyer",
+        "title": "Software Engineer",
+        "summary": "Sense this manager fine level speak themselves speech. Nature white without study candidate. I question first.",
+        "skills": [
+          "HTML",
+          "SQL",
+          "Node.js",
+          "Docker",
+          "Python",
+          "CSS"
+        ]
+      },
+      "match": {
+        "id": 111633,
+        "name": "Jill Dyer",
+        "title": "Software Engineer",
+        "summary": "Sense this manager fine level speak themselves speech. Nature white without study candidate. I question first.",
+        "skills": [
+          "Python",
+          "SQL",
+          "Docker",
+          "Node.js",
+          "CSS",
+          "HTML"
+        ]
+      },
+      "similarityScore": 0.9964337888164573,
+      "diffSummary": "No meaningful differences; both profiles have the same name, title, summary, and identical skills listed in a different order."
+    },
+    {
+      "entryA": {
+        "id": 17871,
+        "name": "Mitchell Smith",
+        "title": "DevOps Engineer",
+        "summary": "Best budget power them evidence without beyond take. Physical against trial son break either. Stage population boy child surface amount day.",
+        "skills": [
+          "Kubernetes",
+          "CSS",
+          "AWS",
+          "JavaScript",
+          "React"
+        ]
+      },
+      "match": {
+        "id": 117871,
+        "name": "Mitchell Smith",
+        "title": "Product Manager",
+        "summary": "Best budget power them evidence without beyond take. Physical against trial son break either. Stage population boy child surface amount day.",
+        "skills": [
+          "AWS",
+          "JavaScript",
+          "Kubernetes",
+          "CSS",
+          "React"
+        ]
+      },
+      "similarityScore": 0.9304895109941015,
+      "diffSummary": "Title changed from \"DevOps Engineer\" to \"Product Manager\"; skills remain the same but reordered."
+    },
+    {
+      "entryA": {
+        "id": 12889,
+        "name": "Ernest Richardson",
+        "title": "UX Designer",
+        "summary": "Suffer which parent. Republican total policy head Mrs debate onto. Catch even front.",
+        "skills": [
+          "Node.js",
+          "CSS",
+          "JavaScript",
+          "AWS",
+          "React"
+        ]
+      },
+      "match": {
+        "id": 112889,
+        "name": "Ernest Richardson",
+        "title": "UX Designer",
+        "summary": "Suffer which parent. Republican total policy head Mrs debate onto. Catch even front.",
+        "skills": [
+          "Node.js",
+          "CSS",
+          "JavaScript",
+          "AWS",
+          "React"
+        ]
+      },
+      "similarityScore": 0.9999993447217957,
+      "diffSummary": "There are no differences between Profile A and Profile B; both have the same name, title, summary, and skills."
+    },
+    {
+      "entryA": {
+        "id": 12919,
+        "name": "Brandon Chan",
+        "title": "Data Scientist",
+        "summary": "Especially change on.",
+        "skills": [
+          "React",
+          "AWS",
+          "Docker",
+          "Kubernetes",
+          "JavaScript"
+        ]
+      },
+      "match": {
+        "id": 112919,
+        "name": "Brandon Chan",
+        "title": "Data Scientist",
+        "summary": "Especially change on.",
+        "skills": [
+          "AWS",
+          "Docker",
+          "JavaScript",
+          "Kubernetes",
+          "React"
+        ]
+      },
+      "similarityScore": 0.9960346514776224,
+      "diffSummary": "There are no meaningful differences between the two profiles; the title, summary, and skills are the same, with only the order of skills differing."
+    },
+    {
+      "entryA": {
+        "id": 12648,
+        "name": "William Anderson",
+        "title": "Data Scientist",
+        "summary": "Room value film tax rock few structure. Increase between training listen subject.",
+        "skills": [
+          "JavaScript",
+          "HTML",
+          "Python",
+          "CSS"
+        ]
+      },
+      "match": {
+        "id": 112648,
+        "name": "William Anderson",
+        "title": "Software Engineer",
+        "summary": "Room value film tax rock few structure. Increase between training listen subject.",
+        "skills": [
+          "CSS",
+          "Python",
+          "JavaScript",
+          "HTML"
+        ]
+      },
+      "similarityScore": 0.9284091826216654,
+      "diffSummary": "Title changed from \"Data Scientist\" to \"Software Engineer\"; skills reordered but contain the same technologies; summary remains identical."
+    },
+    {
+      "entryA": {
+        "id": 13038,
+        "name": "Gwendolyn Mendoza",
+        "title": "Data Scientist",
+        "summary": "Also friend reach choose coach north. Assume be seek article. Better news face.",
+        "skills": [
+          "Docker",
+          "Python",
+          "AWS"
+        ]
+      },
+      "match": {
+        "id": 113038,
+        "name": "Gwendolyn Mendoza",
+        "title": "Data Scientist",
+        "summary": "Also friend reach choose coach north. Assume be seek article. Better news face.",
+        "skills": [
+          "Docker",
+          "Python",
+          "AWS"
+        ]
+      },
+      "similarityScore": 1,
+      "diffSummary": "No differences"
+    },
+    {
+      "entryA": {
+        "id": 12901,
+        "name": "Rachel Klein",
+        "title": "Software Engineer",
+        "summary": "Base detail yourself one coach court. Ask tell reduce total.",
+        "skills": [
+          "Node.js",
+          "React",
+          "Python"
+        ]
+      },
+      "match": {
+        "id": 112901,
+        "name": "Rachel Klein",
+        "title": "Software Engineer",
+        "summary": "Base detail yourself one coach court. Ask tell reduce total.",
+        "skills": [
+          "Node.js",
+          "React",
+          "Python"
+        ]
+      },
+      "similarityScore": 0.9999994424247559,
+      "diffSummary": "There are no differences between Profile A and Profile B; all fields including name, title, summary, and skills are identical."
+    },
+    {
+      "entryA": {
+        "id": 18851,
+        "name": "Michael Wilson",
+        "title": "Data Scientist",
+        "summary": "Debate among way democratic chair. Learn gun still bit other. Chance image quite there many true follow.",
+        "skills": [
+          "JavaScript",
+          "HTML",
+          "Docker"
+        ]
+      },
+      "match": {
+        "id": 118851,
+        "name": "Michael Wilson",
+        "title": "DevOps Engineer",
+        "summary": "Debate among way democratic chair. Learn gun still bit other. Chance image quite there many true follow.",
+        "skills": [
+          "Docker",
+          "Python",
+          "JavaScript",
+          "HTML"
+        ]
+      },
+      "similarityScore": 0.9043434215664085,
+      "diffSummary": "Title changed from \"Data Scientist\" to \"DevOps Engineer\"; Skills updated with addition of Python and reordered to prioritize Docker."
+    },
+    {
+      "entryA": {
+        "id": 12662,
+        "name": "Mr. Michael Harris DDS",
+        "title": "Product Manager",
+        "summary": "Future while together. Along chance either six success on.",
+        "skills": [
+          "Node.js",
+          "Python",
+          "SQL"
+        ]
+      },
+      "match": {
+        "id": 112662,
+        "name": "Mr. Michael Harris DDS",
+        "title": "Product Manager",
+        "summary": "Future while together. Along chance either six success on.",
+        "skills": [
+          "Python",
+          "AWS",
+          "Node.js",
+          "SQL"
+        ]
+      },
+      "similarityScore": 0.9839194185571202,
+      "diffSummary": "Skills updated: Profile B adds AWS to the existing skills from Profile A. No changes in name, title, or summary."
+    },
+    {
+      "entryA": {
+        "id": 16739,
+        "name": "Renee Jones",
+        "title": "UX Designer",
+        "summary": "Than always different American address such former. Song than leave he.",
+        "skills": [
+          "JavaScript",
+          "HTML",
+          "Kubernetes",
+          "CSS"
+        ]
+      },
+      "match": {
+        "id": 116739,
+        "name": "Renee Jones",
+        "title": "UX Designer",
+        "summary": "Than always different American address such former. Song than leave he.",
+        "skills": [
+          "JavaScript",
+          "Kubernetes",
+          "CSS",
+          "HTML",
+          "React"
+        ]
+      },
+      "similarityScore": 0.9908418346939417,
+      "diffSummary": "Skills updated: Profile B adds React and reorders the existing skills; no changes in name, title, or summary."
+    },
+    {
+      "entryA": {
+        "id": 12653,
+        "name": "Joseph Johnson",
+        "title": "UX Designer",
+        "summary": "Serious wrong section town deal movement out. Suddenly win parent do ten after those.",
+        "skills": [
+          "SQL",
+          "AWS",
+          "Kubernetes",
+          "Docker"
+        ]
+      },
+      "match": {
+        "id": 112653,
+        "name": "Joseph Johnson",
+        "title": "UX Designer",
+        "summary": "Serious wrong section town deal movement out. Suddenly win parent do ten after those.",
+        "skills": [
+          "AWS",
+          "SQL",
+          "Docker",
+          "Kubernetes",
+          "React"
+        ]
+      },
+      "similarityScore": 0.9852339667528623,
+      "diffSummary": "Skills updated: Profile B adds React to the existing skills list; the order of skills is also slightly changed. No changes in title or summary."
+    },
+    {
+      "entryA": {
+        "id": 13775,
+        "name": "Elizabeth Hudson",
+        "title": "Data Scientist",
+        "summary": "Management energy stay significant. Special artist political camera expert stop. Walk loss cell three.",
+        "skills": [
+          "React",
+          "CSS",
+          "AWS"
+        ]
+      },
+      "match": {
+        "id": 113775,
+        "name": "Elizabeth Hudson",
+        "title": "UX Designer",
+        "summary": "Management energy stay significant. Special artist political camera expert stop. Walk loss cell three.",
+        "skills": [
+          "Kubernetes",
+          "React",
+          "AWS",
+          "CSS"
+        ]
+      },
+      "similarityScore": 0.8848752797817613,
+      "diffSummary": "Title changed from \"Data Scientist\" to \"UX Designer\"; Skills updated with addition of \"Kubernetes\"."
+    },
+    {
+      "entryA": {
+        "id": 19674,
+        "name": "Angela Hale",
+        "title": "Product Manager",
+        "summary": "Along letter learn big sing after. Pay picture black near get himself simply make. Particular level place full.",
+        "skills": [
+          "CSS",
+          "Kubernetes",
+          "React"
+        ]
+      },
+      "match": {
+        "id": 119674,
+        "name": "Angela Hale",
+        "title": "Data Scientist",
+        "summary": "Along letter learn big sing after. Pay picture black near get himself simply make. Particular level place full.",
+        "skills": [
+          "CSS",
+          "Kubernetes",
+          "React"
+        ]
+      },
+      "similarityScore": 0.8880152680811306,
+      "diffSummary": "Title changed from \"Product Manager\" to \"Data Scientist\"; skills and summary remain the same."
+    },
+    {
+      "entryA": {
+        "id": 11216,
+        "name": "Michael Howell",
+        "title": "UX Designer",
+        "summary": "Son true their race special million. Although hot he couple ground.",
+        "skills": [
+          "CSS",
+          "HTML",
+          "SQL",
+          "AWS",
+          "React",
+          "Node.js"
+        ]
+      },
+      "match": {
+        "id": 111216,
+        "name": "Michael Howell",
+        "title": "Data Scientist",
+        "summary": "Son true their race special million. Although hot he couple ground.",
+        "skills": [
+          "CSS",
+          "HTML",
+          "SQL",
+          "AWS",
+          "React",
+          "Node.js"
+        ]
+      },
+      "similarityScore": 0.9152814908544212,
+      "diffSummary": "Title changed from \"UX Designer\" to \"Data Scientist\"; skills and summary remain the same."
+    },
+    {
+      "entryA": {
+        "id": 15111,
+        "name": "Tina Winters",
+        "title": "Data Scientist",
+        "summary": "Effort ago mind notice then director simply.",
+        "skills": [
+          "Kubernetes",
+          "Python",
+          "AWS"
+        ]
+      },
+      "match": {
+        "id": 115111,
+        "name": "Tina Winters",
+        "title": "UX Designer",
+        "summary": "Effort ago mind notice then director simply.",
+        "skills": [
+          "Kubernetes",
+          "AWS",
+          "Python"
+        ]
+      },
+      "similarityScore": 0.8877342282550456,
+      "diffSummary": "Title changed from \"Data Scientist\" to \"UX Designer\"; skills reordered but remain the same (Kubernetes, Python, AWS). Summary unchanged."
+    },
+    {
+      "entryA": {
+        "id": 11748,
+        "name": "Lori Shaw",
+        "title": "DevOps Engineer",
+        "summary": "Medical watch certainly through instead base. Indeed between similar safe. Social issue indicate.",
+        "skills": [
+          "React",
+          "Node.js",
+          "Kubernetes",
+          "CSS",
+          "SQL"
+        ]
+      },
+      "match": {
+        "id": 111748,
+        "name": "Lori Shaw",
+        "title": "DevOps Engineer",
+        "summary": "Medical watch certainly through instead base. Indeed between similar safe. Social issue indicate.",
+        "skills": [
+          "SQL",
+          "Node.js",
+          "Kubernetes",
+          "CSS",
+          "React"
+        ]
+      },
+      "similarityScore": 0.9966697004047933,
+      "diffSummary": "There are no meaningful differences between the two profiles; the title, summary, and skills are the same, with only the order of skills differing."
+    },
+    {
+      "entryA": {
+        "id": 15716,
+        "name": "Sean Nguyen III",
+        "title": "Product Manager",
+        "summary": "Building reality generation concern. Standard audience throw debate daughter. Security fall ready usually.",
+        "skills": [
+          "SQL",
+          "Docker",
+          "HTML",
+          "Kubernetes"
+        ]
+      },
+      "match": {
+        "id": 115716,
+        "name": "Sean Nguyen III",
+        "title": "Product Manager",
+        "summary": "Building reality generation concern. Standard audience throw debate daughter. Security fall ready usually.",
+        "skills": [
+          "SQL",
+          "Docker",
+          "HTML",
+          "Kubernetes"
+        ]
+      },
+      "similarityScore": 1,
+      "diffSummary": "No differences"
+    },
+    {
+      "entryA": {
+        "id": 12322,
+        "name": "Charles Gibson",
+        "title": "Software Engineer",
+        "summary": "Religious election agreement decade friend which. View when player contain year. Mouth film heavy chair.",
+        "skills": [
+          "AWS",
+          "React",
+          "Node.js",
+          "Python"
+        ]
+      },
+      "match": {
+        "id": 112322,
+        "name": "Charles Gibson",
+        "title": "Software Engineer",
+        "summary": "Religious election agreement decade friend which. View when player contain year. Mouth film heavy chair.",
+        "skills": [
+          "AWS",
+          "React",
+          "Node.js",
+          "Python"
+        ]
+      },
+      "similarityScore": 0.9999602247291548,
+      "diffSummary": "There are no meaningful differences between Profile A and Profile B; both have the same name, title, summary, and skills."
+    },
+    {
+      "entryA": {
+        "id": 18342,
+        "name": "Daniel Romero",
+        "title": "UX Designer",
+        "summary": "Fact information animal car. Hour reduce car.",
+        "skills": [
+          "JavaScript",
+          "Docker",
+          "HTML",
+          "Kubernetes",
+          "AWS",
+          "CSS"
+        ]
+      },
+      "match": {
+        "id": 118342,
+        "name": "Daniel Romero",
+        "title": "Product Manager",
+        "summary": "Fact information animal car. Hour reduce car.",
+        "skills": [
+          "AWS",
+          "Docker",
+          "JavaScript",
+          "Kubernetes",
+          "CSS",
+          "HTML"
+        ]
+      },
+      "similarityScore": 0.9135437868002667,
+      "diffSummary": "Title changed from \"UX Designer\" to \"Product Manager\"; skills remain the same but are reordered."
+    },
+    {
+      "entryA": {
+        "id": 13714,
+        "name": "Jason House",
+        "title": "UX Designer",
+        "summary": "Fear great easy plan PM more. Impact individual rock fly daughter fall. Before control board born painting child reflect. Control instead company where future model.",
+        "skills": [
+          "SQL",
+          "React",
+          "Kubernetes"
+        ]
+      },
+      "match": {
+        "id": 113714,
+        "name": "Jason House",
+        "title": "UX Designer",
+        "summary": "Fear great easy plan PM more. Impact individual rock fly daughter fall. Before control board born painting child reflect. Control instead company where future model.",
+        "skills": [
+          "SQL",
+          "React",
+          "Kubernetes"
+        ]
+      },
+      "similarityScore": 1,
+      "diffSummary": "No differences"
+    },
+    {
+      "entryA": {
+        "id": 19643,
+        "name": "Mark Miller",
+        "title": "UX Designer",
+        "summary": "Ability recognize peace account fear. Feeling participant interest seem begin marriage which myself.",
+        "skills": [
+          "JavaScript",
+          "Kubernetes",
+          "AWS"
+        ]
+      },
+      "match": {
+        "id": 119643,
+        "name": "Mark Miller",
+        "title": "UX Designer",
+        "summary": "Ability recognize peace account fear. Feeling participant interest seem begin marriage which myself.",
+        "skills": [
+          "JavaScript",
+          "Kubernetes",
+          "AWS"
+        ]
+      },
+      "similarityScore": 1,
+      "diffSummary": "No differences"
+    },
+    {
+      "entryA": {
+        "id": 16112,
+        "name": "Mark Smith",
+        "title": "UX Designer",
+        "summary": "A huge three. Know second government the pull cultural.",
+        "skills": [
+          "Docker",
+          "Node.js",
+          "Python"
+        ]
+      },
+      "match": {
+        "id": 116112,
+        "name": "Mark Smith",
+        "title": "UX Designer",
+        "summary": "A huge three. Know second government the pull cultural.",
+        "skills": [
+          "Docker",
+          "Node.js",
+          "Python"
+        ]
+      },
+      "similarityScore": 1,
+      "diffSummary": "No differences"
+    },
+    {
+      "entryA": {
+        "id": 13138,
+        "name": "Benjamin Baker",
+        "title": "Software Engineer",
+        "summary": "Brother teacher three seven attention team. Mind off phone most improve. Idea sing small factor head pick church.",
+        "skills": [
+          "Docker",
+          "AWS",
+          "JavaScript",
+          "Python",
+          "Kubernetes",
+          "HTML"
+        ]
+      },
+      "match": {
+        "id": 113138,
+        "name": "Benjamin Baker",
+        "title": "Software Engineer",
+        "summary": "Brother teacher three seven attention team. Mind off phone most improve. Idea sing small factor head pick church.",
+        "skills": [
+          "AWS",
+          "Python",
+          "Docker",
+          "JavaScript",
+          "Kubernetes",
+          "HTML"
+        ]
+      },
+      "similarityScore": 0.9968752468956957,
+      "diffSummary": "The only difference is the order of skills listed; Profile A starts with Docker, while Profile B starts with AWS. No other meaningful changes."
+    },
+    {
+      "entryA": {
+        "id": 19656,
+        "name": "Jane Garza",
+        "title": "DevOps Engineer",
+        "summary": "Property government line indeed live reason five. Know central many thought.",
+        "skills": [
+          "Node.js",
+          "Python",
+          "CSS"
+        ]
+      },
+      "match": {
+        "id": 119656,
+        "name": "Jane Garza",
+        "title": "Product Manager",
+        "summary": "Property government line indeed live reason five. Know central many thought.",
+        "skills": [
+          "Python",
+          "CSS",
+          "Node.js",
+          "JavaScript"
+        ]
+      },
+      "similarityScore": 0.8995030112555862,
+      "diffSummary": "Title changed from \"DevOps Engineer\" to \"Product Manager\"; skills updated with the addition of JavaScript and reordered."
+    },
+    {
+      "entryA": {
+        "id": 15954,
+        "name": "Henry Myers",
+        "title": "Product Manager",
+        "summary": "Without rather bank we under house guess.",
+        "skills": [
+          "Python",
+          "Kubernetes",
+          "Docker",
+          "AWS"
+        ]
+      },
+      "match": {
+        "id": 115954,
+        "name": "Henry Myers",
+        "title": "Software Engineer",
+        "summary": "Without rather bank we under house guess.",
+        "skills": [
+          "AWS",
+          "Python",
+          "Docker",
+          "JavaScript",
+          "Kubernetes"
+        ]
+      },
+      "similarityScore": 0.9119600895580888,
+      "diffSummary": "Title changed from \"Product Manager\" to \"Software Engineer\"; Skills updated with addition of JavaScript and reordered list."
+    },
+    {
+      "entryA": {
+        "id": 12332,
+        "name": "Aaron Nelson",
+        "title": "Software Engineer",
+        "summary": "Cell of course its respond. Collection instead today itself language remember.",
+        "skills": [
+          "Kubernetes",
+          "Python",
+          "SQL",
+          "HTML",
+          "AWS"
+        ]
+      },
+      "match": {
+        "id": 112332,
+        "name": "Aaron Nelson",
+        "title": "UX Designer",
+        "summary": "Cell of course its respond. Collection instead today itself language remember.",
+        "skills": [
+          "Kubernetes",
+          "Python",
+          "SQL",
+          "HTML",
+          "AWS"
+        ]
+      },
+      "similarityScore": 0.9245573754035851,
+      "diffSummary": "Title changed from \"Software Engineer\" to \"UX Designer\"; skills and summary remain the same."
+    },
+    {
+      "entryA": {
+        "id": 19533,
+        "name": "Beverly Lozano",
+        "title": "Product Manager",
+        "summary": "Smile home southern hope detail cultural. Only anyone home doctor be. Hair sea quality do.",
+        "skills": [
+          "React",
+          "SQL",
+          "JavaScript"
+        ]
+      },
+      "match": {
+        "id": 119533,
+        "name": "Beverly Lozano",
+        "title": "Product Manager",
+        "summary": "Smile home southern hope detail cultural. Only anyone home doctor be. Hair sea quality do.",
+        "skills": [
+          "React",
+          "Node.js",
+          "JavaScript",
+          "SQL"
+        ]
+      },
+      "similarityScore": 0.9907959961709278,
+      "diffSummary": "Skills updated: Profile B includes Node.js in addition to React, JavaScript, and SQL; all other details remain the same."
+    },
+    {
+      "entryA": {
+        "id": 11693,
+        "name": "Brandon Melton",
+        "title": "Software Engineer",
+        "summary": "In approach recent program possible natural. Ok majority region democratic entire analysis.",
+        "skills": [
+          "SQL",
+          "HTML",
+          "AWS",
+          "React"
+        ]
+      },
+      "match": {
+        "id": 111693,
+        "name": "Brandon Melton",
+        "title": "Product Manager",
+        "summary": "In approach recent program possible natural. Ok majority region democratic entire analysis.",
+        "skills": [
+          "SQL",
+          "HTML",
+          "AWS",
+          "React"
+        ]
+      },
+      "similarityScore": 0.9397031194134603,
+      "diffSummary": "Title changed from \"Software Engineer\" to \"Product Manager\"; skills and summary remain the same."
+    },
+    {
+      "entryA": {
+        "id": 11688,
+        "name": "Aaron Pena",
+        "title": "DevOps Engineer",
+        "summary": "Skill quite wife however. Law fund bill third some.",
+        "skills": [
+          "Kubernetes",
+          "Docker",
+          "AWS",
+          "HTML",
+          "SQL",
+          "Python"
+        ]
+      },
+      "match": {
+        "id": 111688,
+        "name": "Aaron Pena",
+        "title": "DevOps Engineer",
+        "summary": "Skill quite wife however. Law fund bill third some.",
+        "skills": [
+          "AWS",
+          "Python",
+          "SQL",
+          "Docker",
+          "Kubernetes",
+          "HTML"
+        ]
+      },
+      "similarityScore": 0.995180698048812,
+      "diffSummary": "There are no meaningful differences between the two profiles. Both have the same name, title, summary, and skills—only the order of listed skills differs."
+    },
+    {
+      "entryA": {
+        "id": 14405,
+        "name": "Jesus Nguyen",
+        "title": "UX Designer",
+        "summary": "And hard decide modern could cut pull.",
+        "skills": [
+          "JavaScript",
+          "React",
+          "HTML",
+          "Kubernetes",
+          "Docker"
+        ]
+      },
+      "match": {
+        "id": 114405,
+        "name": "Jesus Nguyen",
+        "title": "UX Designer",
+        "summary": "And hard decide modern could cut pull.",
+        "skills": [
+          "JavaScript",
+          "React",
+          "HTML",
+          "Kubernetes",
+          "Docker"
+        ]
+      },
+      "similarityScore": 1,
+      "diffSummary": "No differences"
+    },
+    {
+      "entryA": {
+        "id": 16529,
+        "name": "Emily Heath",
+        "title": "Product Manager",
+        "summary": "Gas Republican and various authority leave right. True include management.",
+        "skills": [
+          "AWS",
+          "JavaScript",
+          "HTML"
+        ]
+      },
+      "match": {
+        "id": 116529,
+        "name": "Emily Heath",
+        "title": "DevOps Engineer",
+        "summary": "Gas Republican and various authority leave right. True include management.",
+        "skills": [
+          "AWS",
+          "JavaScript",
+          "HTML"
+        ]
+      },
+      "similarityScore": 0.9374870784719049,
+      "diffSummary": "Title changed from \"Product Manager\" to \"DevOps Engineer\"; skills and summary remain the same."
+    },
+    {
+      "entryA": {
+        "id": 15417,
+        "name": "Bradley Allen",
+        "title": "Data Scientist",
+        "summary": "This degree partner stand next though. Always Congress majority campaign that various.",
+        "skills": [
+          "CSS",
+          "SQL",
+          "AWS",
+          "Node.js"
+        ]
+      },
+      "match": {
+        "id": 115417,
+        "name": "Bradley Allen",
+        "title": "DevOps Engineer",
+        "summary": "This degree partner stand next though. Always Congress majority campaign that various.",
+        "skills": [
+          "Node.js",
+          "AWS",
+          "CSS",
+          "SQL"
+        ]
+      },
+      "similarityScore": 0.9231381141850605,
+      "diffSummary": "Title changed from \"Data Scientist\" to \"DevOps Engineer\"; skills remain the same but reordered. Summary is identical."
+    },
+    {
+      "entryA": {
+        "id": 19986,
+        "name": "Jeffrey Hawkins",
+        "title": "Data Scientist",
+        "summary": "Must cut father kid painting movie end discussion. Past Republican common increase.",
+        "skills": [
+          "Python",
+          "Kubernetes",
+          "Node.js",
+          "JavaScript",
+          "React"
+        ]
+      },
+      "match": {
+        "id": 119986,
+        "name": "Jeffrey Hawkins",
+        "title": "Product Manager",
+        "summary": "Must cut father kid painting movie end discussion. Past Republican common increase.",
+        "skills": [
+          "Python",
+          "Docker",
+          "Node.js",
+          "JavaScript",
+          "Kubernetes",
+          "React"
+        ]
+      },
+      "similarityScore": 0.9018014413646942,
+      "diffSummary": "Title changed from \"Data Scientist\" to \"Product Manager\"; Skills updated with addition of Docker and reordered (Docker added, Kubernetes moved)."
+    },
+    {
+      "entryA": {
+        "id": 13942,
+        "name": "Shawn Osborn",
+        "title": "DevOps Engineer",
+        "summary": "Middle teacher business population brother say grow.",
+        "skills": [
+          "SQL",
+          "Docker",
+          "AWS"
+        ]
+      },
+      "match": {
+        "id": 113942,
+        "name": "Shawn Osborn",
+        "title": "Product Manager",
+        "summary": "Middle teacher business population brother say grow.",
+        "skills": [
+          "SQL",
+          "Docker",
+          "AWS"
+        ]
+      },
+      "similarityScore": 0.9419141016285983,
+      "diffSummary": "Title changed from \"DevOps Engineer\" to \"Product Manager\"; skills and summary remain the same."
+    },
+    {
+      "entryA": {
+        "id": 15902,
+        "name": "Michele Guerrero",
+        "title": "UX Designer",
+        "summary": "Ask film force health lose. Commercial special network foreign one agent candidate how.",
+        "skills": [
+          "Python",
+          "HTML",
+          "Kubernetes"
+        ]
+      },
+      "match": {
+        "id": 115902,
+        "name": "Michele Guerrero",
+        "title": "Product Manager",
+        "summary": "Ask film force health lose. Commercial special network foreign one agent candidate how.",
+        "skills": [
+          "Python",
+          "HTML",
+          "Kubernetes"
+        ]
+      },
+      "similarityScore": 0.9327954366842217,
+      "diffSummary": "Title changed from \"UX Designer\" to \"Product Manager\"; skills and summary remain the same."
+    },
+    {
+      "entryA": {
+        "id": 18766,
+        "name": "Kayla Jones",
+        "title": "Product Manager",
+        "summary": "Notice receive degree run staff service government. Car material truth pattern ago other majority final.",
+        "skills": [
+          "Python",
+          "Kubernetes",
+          "CSS",
+          "AWS",
+          "Node.js"
+        ]
+      },
+      "match": {
+        "id": 118766,
+        "name": "Kayla Jones",
+        "title": "UX Designer",
+        "summary": "Notice receive degree run staff service government. Car material truth pattern ago other majority final.",
+        "skills": [
+          "AWS",
+          "Python",
+          "Node.js",
+          "Kubernetes",
+          "CSS"
+        ]
+      },
+      "similarityScore": 0.9176022217354702,
+      "diffSummary": "Title changed from \"Product Manager\" to \"UX Designer\"; skills remain the same but reordered. Summary is identical."
+    },
+    {
+      "entryA": {
+        "id": 17988,
+        "name": "Kristi Martin",
+        "title": "Software Engineer",
+        "summary": "National region bad case I course first. Himself arrive although risk which. Television protect process difficult general class.",
+        "skills": [
+          "AWS",
+          "React",
+          "HTML",
+          "CSS",
+          "SQL"
+        ]
+      },
+      "match": {
+        "id": 117988,
+        "name": "Kristi Martin",
+        "title": "UX Designer",
+        "summary": "National region bad case I course first. Himself arrive although risk which. Television protect process difficult general class.",
+        "skills": [
+          "AWS",
+          "React",
+          "HTML",
+          "CSS",
+          "SQL"
+        ]
+      },
+      "similarityScore": 0.9371988459160067,
+      "diffSummary": "Title changed from \"Software Engineer\" to \"UX Designer\"; skills and summary remain the same."
+    },
+    {
+      "entryA": {
+        "id": 17153,
+        "name": "Kenneth Brown",
+        "title": "Software Engineer",
+        "summary": "Government make article drop. Difficult president at. General professional career two. Itself group computer forget would section him.",
+        "skills": [
+          "Python",
+          "Node.js",
+          "HTML"
+        ]
+      },
+      "match": {
+        "id": 117153,
+        "name": "Kenneth Brown",
+        "title": "Software Engineer",
+        "summary": "Government make article drop. Difficult president at. General professional career two. Itself group computer forget would section him.",
+        "skills": [
+          "Node.js",
+          "Python",
+          "HTML"
+        ]
+      },
+      "similarityScore": 0.9975782758336643,
+      "diffSummary": "Skills reordered: Profile A lists \"Python, Node.js, HTML,\" while Profile B lists \"Node.js, Python, HTML.\" No other meaningful differences."
+    },
+    {
+      "entryA": {
+        "id": 12001,
+        "name": "Dennis Schmidt",
+        "title": "UX Designer",
+        "summary": "North but west. About catch than method. Bag down stock computer.",
+        "skills": [
+          "Python",
+          "Docker",
+          "SQL"
+        ]
+      },
+      "match": {
+        "id": 112001,
+        "name": "Dennis Schmidt",
+        "title": "Data Scientist",
+        "summary": "North but west. About catch than method. Bag down stock computer.",
+        "skills": [
+          "Node.js",
+          "Docker",
+          "Python",
+          "SQL"
+        ]
+      },
+      "similarityScore": 0.8911517249260331,
+      "diffSummary": "Title changed from \"UX Designer\" to \"Data Scientist\"; Skills updated with addition of Node.js."
+    },
+    {
+      "entryA": {
+        "id": 18348,
+        "name": "Tina Kemp",
+        "title": "UX Designer",
+        "summary": "Response interview ten billion. Leader change own education south run agree usually. Many group public.",
+        "skills": [
+          "Docker",
+          "Python",
+          "AWS",
+          "HTML"
+        ]
+      },
+      "match": {
+        "id": 118348,
+        "name": "Tina Kemp",
+        "title": "Software Engineer",
+        "summary": "Response interview ten billion. Leader change own education south run agree usually. Many group public.",
+        "skills": [
+          "Docker",
+          "Python",
+          "AWS",
+          "HTML"
+        ]
+      },
+      "similarityScore": 0.923268882722023,
+      "diffSummary": "Title changed from \"UX Designer\" to \"Software Engineer\"; skills and summary remain the same."
+    },
+    {
+      "entryA": {
+        "id": 15274,
+        "name": "Jordan Martin",
+        "title": "DevOps Engineer",
+        "summary": "Establish manage hotel financial too nearly. Significant now energy. Lay return identify.",
+        "skills": [
+          "Docker",
+          "Node.js",
+          "AWS",
+          "JavaScript"
+        ]
+      },
+      "match": {
+        "id": 115274,
+        "name": "Jordan Martin",
+        "title": "DevOps Engineer",
+        "summary": "Establish manage hotel financial too nearly. Significant now energy. Lay return identify.",
+        "skills": [
+          "Docker",
+          "Node.js",
+          "AWS",
+          "JavaScript"
+        ]
+      },
+      "similarityScore": 1,
+      "diffSummary": "No differences"
+    },
+    {
+      "entryA": {
+        "id": 12046,
+        "name": "Alex Singh Jr.",
+        "title": "Software Engineer",
+        "summary": "Yet seven several might history. Decade not forget why under. Purpose mouth then class test check suffer star. Staff north weight guy personal follow situation over.",
+        "skills": [
+          "Node.js",
+          "Python",
+          "Kubernetes",
+          "CSS",
+          "React",
+          "HTML"
+        ]
+      },
+      "match": {
+        "id": 112046,
+        "name": "Alex Singh Jr.",
+        "title": "Data Scientist",
+        "summary": "Yet seven several might history. Decade not forget why under. Purpose mouth then class test check suffer star. Staff north weight guy personal follow situation over.",
+        "skills": [
+          "Python",
+          "Node.js",
+          "Kubernetes",
+          "CSS",
+          "HTML",
+          "React"
+        ]
+      },
+      "similarityScore": 0.9374482534033405,
+      "diffSummary": "Title changed from \"Software Engineer\" to \"Data Scientist\"; skills reordered but contain the same technologies."
+    },
+    {
+      "entryA": {
+        "id": 11689,
+        "name": "Mrs. Brenda Williams",
+        "title": "Data Scientist",
+        "summary": "Upon we lose water stand single. Could nature interest wear community college probably church.",
+        "skills": [
+          "Python",
+          "Node.js",
+          "Kubernetes",
+          "HTML"
+        ]
+      },
+      "match": {
+        "id": 111689,
+        "name": "Mrs. Brenda Williams",
+        "title": "Product Manager",
+        "summary": "Upon we lose water stand single. Could nature interest wear community college probably church.",
+        "skills": [
+          "Python",
+          "Node.js",
+          "Kubernetes",
+          "HTML"
+        ]
+      },
+      "similarityScore": 0.9161119257808767,
+      "diffSummary": "Title changed from \"Data Scientist\" to \"Product Manager\"; skills and summary remain the same."
+    },
+    {
+      "entryA": {
+        "id": 16925,
+        "name": "Jonathan Hogan",
+        "title": "DevOps Engineer",
+        "summary": "Senior entire expect investment yard responsibility. Mrs never wrong couple site. Suddenly seek choice produce. His less already treatment PM sometimes set.",
+        "skills": [
+          "Python",
+          "Kubernetes",
+          "React",
+          "SQL"
+        ]
+      },
+      "match": {
+        "id": 116925,
+        "name": "Jonathan Hogan",
+        "title": "UX Designer",
+        "summary": "Senior entire expect investment yard responsibility. Mrs never wrong couple site. Suddenly seek choice produce. His less already treatment PM sometimes set.",
+        "skills": [
+          "Kubernetes",
+          "React",
+          "Python",
+          "SQL"
+        ]
+      },
+      "similarityScore": 0.9226666878811511,
+      "diffSummary": "Title changed from \"DevOps Engineer\" to \"UX Designer\"; skills reordered but contain the same technologies (Python, Kubernetes, React, SQL); summary text remains identical."
+    },
+    {
+      "entryA": {
+        "id": 17650,
+        "name": "Heidi Jarvis",
+        "title": "UX Designer",
+        "summary": "Piece physical market room eat. Ever war unit back large.",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "HTML",
+          "CSS",
+          "Docker",
+          "Python"
+        ]
+      },
+      "match": {
+        "id": 117650,
+        "name": "Heidi Jarvis",
+        "title": "UX Designer",
+        "summary": "Piece physical market room eat. Ever war unit back large.",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "HTML",
+          "CSS",
+          "Docker",
+          "Python"
+        ]
+      },
+      "similarityScore": 1,
+      "diffSummary": "No differences"
+    },
+    {
+      "entryA": {
+        "id": 19893,
+        "name": "Joanna Hicks",
+        "title": "DevOps Engineer",
+        "summary": "Clearly type up play wait. Join serious green foreign film.",
+        "skills": [
+          "JavaScript",
+          "AWS",
+          "HTML",
+          "Docker"
+        ]
+      },
+      "match": {
+        "id": 119893,
+        "name": "Joanna Hicks",
+        "title": "DevOps Engineer",
+        "summary": "Clearly type up play wait. Join serious green foreign film.",
+        "skills": [
+          "JavaScript",
+          "AWS",
+          "HTML",
+          "Docker"
+        ]
+      },
+      "similarityScore": 1,
+      "diffSummary": "No differences"
+    },
+    {
+      "entryA": {
+        "id": 16272,
+        "name": "Phillip Harris MD",
+        "title": "Software Engineer",
+        "summary": "Pull recent state old great notice north everything. Huge TV career. Not girl above course.",
+        "skills": [
+          "SQL",
+          "React",
+          "Docker",
+          "CSS"
+        ]
+      },
+      "match": {
+        "id": 116272,
+        "name": "Phillip Harris MD",
+        "title": "Software Engineer",
+        "summary": "Pull recent state old great notice north everything. Huge TV career. Not girl above course.",
+        "skills": [
+          "React",
+          "Docker",
+          "CSS",
+          "SQL"
+        ]
+      },
+      "similarityScore": 0.9941173904150445,
+      "diffSummary": "No meaningful differences; both profiles have the same name, title, summary, and identical skills listed in a different order."
+    },
+    {
+      "entryA": {
+        "id": 15823,
+        "name": "Joshua Williams",
+        "title": "UX Designer",
+        "summary": "Hotel by year player image central.",
+        "skills": [
+          "Python",
+          "HTML",
+          "JavaScript"
+        ]
+      },
+      "match": {
+        "id": 115823,
+        "name": "Joshua Williams",
+        "title": "Software Engineer",
+        "summary": "Hotel by year player image central.",
+        "skills": [
+          "Python",
+          "JavaScript",
+          "HTML"
+        ]
+      },
+      "similarityScore": 0.9283594188756106,
+      "diffSummary": "Title changed from \"UX Designer\" to \"Software Engineer\"; skill order changed from \"Python, HTML, JavaScript\" to \"Python, JavaScript, HTML\"."
+    },
+    {
+      "entryA": {
+        "id": 12087,
+        "name": "Sean Dixon",
+        "title": "Data Scientist",
+        "summary": "Throughout treat relate respond. Role mind statement.",
+        "skills": [
+          "JavaScript",
+          "SQL",
+          "CSS",
+          "Docker"
+        ]
+      },
+      "match": {
+        "id": 112087,
+        "name": "Sean Dixon",
+        "title": "UX Designer",
+        "summary": "Throughout treat relate respond. Role mind statement.",
+        "skills": [
+          "SQL",
+          "Docker",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      "similarityScore": 0.8818451499753632,
+      "diffSummary": "Title changed from \"Data Scientist\" to \"UX Designer\"; skills reordered but remain the same."
+    },
+    {
+      "entryA": {
+        "id": 18349,
+        "name": "Melissa Hughes",
+        "title": "Product Manager",
+        "summary": "Son spend ball company enter son. Red effect else very your choice.",
+        "skills": [
+          "React",
+          "Kubernetes",
+          "AWS",
+          "SQL"
+        ]
+      },
+      "match": {
+        "id": 118349,
+        "name": "Melissa Hughes",
+        "title": "Product Manager",
+        "summary": "Son spend ball company enter son. Red effect else very your choice.",
+        "skills": [
+          "React",
+          "Kubernetes",
+          "AWS",
+          "SQL"
+        ]
+      },
+      "similarityScore": 0.9999995378104922,
+      "diffSummary": "There are no differences between Profile A and Profile B; all fields including name, title, summary, and skills are identical."
+    },
+    {
+      "entryA": {
+        "id": 17262,
+        "name": "Kristen Johnson",
+        "title": "DevOps Engineer",
+        "summary": "Political almost serious stand. Cover social particularly speech. City four pretty live new myself star. Able simple billion parent now from.",
+        "skills": [
+          "CSS",
+          "Python",
+          "HTML"
+        ]
+      },
+      "match": {
+        "id": 117262,
+        "name": "Kristen Johnson",
+        "title": "DevOps Engineer",
+        "summary": "Political almost serious stand. Cover social particularly speech. City four pretty live new myself star. Able simple billion parent now from.",
+        "skills": [
+          "CSS",
+          "Python",
+          "HTML"
+        ]
+      },
+      "similarityScore": 1,
+      "diffSummary": "No differences"
+    },
+    {
+      "entryA": {
+        "id": 17985,
+        "name": "Ivan Skinner",
+        "title": "Data Scientist",
+        "summary": "First age safe affect. Cover including artist find hope appear should represent.",
+        "skills": [
+          "HTML",
+          "Docker",
+          "Kubernetes",
+          "CSS",
+          "Node.js"
+        ]
+      },
+      "match": {
+        "id": 117985,
+        "name": "Ivan Skinner",
+        "title": "Data Scientist",
+        "summary": "First age safe affect. Cover including artist find hope appear should represent.",
+        "skills": [
+          "SQL",
+          "Docker",
+          "Node.js",
+          "Kubernetes",
+          "CSS",
+          "HTML"
+        ]
+      },
+      "similarityScore": 0.9894858724569308,
+      "diffSummary": "Skills updated: Profile B adds SQL and reorders the existing skills compared to Profile A. No changes in name, title, or summary."
+    },
+    {
+      "entryA": {
+        "id": 14826,
+        "name": "Russell Jones",
+        "title": "Software Engineer",
+        "summary": "Great top series public none sound.",
+        "skills": [
+          "React",
+          "SQL",
+          "HTML"
+        ]
+      },
+      "match": {
+        "id": 114826,
+        "name": "Russell Jones",
+        "title": "DevOps Engineer",
+        "summary": "Great top series public none sound.",
+        "skills": [
+          "React",
+          "SQL",
+          "HTML"
+        ]
+      },
+      "similarityScore": 0.9534436218252585,
+      "diffSummary": "Title changed from \"Software Engineer\" to \"DevOps Engineer\"; skills and summary remain the same."
+    },
+    {
+      "entryA": {
+        "id": 16450,
+        "name": "Andre Lang",
+        "title": "Software Engineer",
+        "summary": "Ask benefit ago again identify real. Follow so second.",
+        "skills": [
+          "SQL",
+          "CSS",
+          "Docker",
+          "Node.js",
+          "Kubernetes",
+          "JavaScript"
+        ]
+      },
+      "match": {
+        "id": 116450,
+        "name": "Andre Lang",
+        "title": "Software Engineer",
+        "summary": "Ask benefit ago again identify real. Follow so second.",
+        "skills": [
+          "SQL",
+          "Docker",
+          "Node.js",
+          "JavaScript",
+          "Kubernetes",
+          "CSS"
+        ]
+      },
+      "similarityScore": 0.9973481905784966,
+      "diffSummary": "There are no meaningful differences between the two profiles; the title, summary, and skills are the same, with only the order of skills differing."
+    },
+    {
+      "entryA": {
+        "id": 13683,
+        "name": "Karen Hodge",
+        "title": "Data Scientist",
+        "summary": "So teach energy possible believe step. Grow better why child might source. A front war.",
+        "skills": [
+          "SQL",
+          "AWS",
+          "JavaScript",
+          "Kubernetes"
+        ]
+      },
+      "match": {
+        "id": 113683,
+        "name": "Karen Hodge",
+        "title": "Product Manager",
+        "summary": "So teach energy possible believe step. Grow better why child might source. A front war.",
+        "skills": [
+          "SQL",
+          "AWS",
+          "JavaScript",
+          "Kubernetes"
+        ]
+      },
+      "similarityScore": 0.9221190582186289,
+      "diffSummary": "Title changed from \"Data Scientist\" to \"Product Manager\"; skills and summary remain the same."
+    },
+    {
+      "entryA": {
+        "id": 18886,
+        "name": "Caitlyn Maxwell",
+        "title": "UX Designer",
+        "summary": "Wall various foreign agency when. Question analysis drive example color draw difficult there.",
+        "skills": [
+          "Kubernetes",
+          "Python",
+          "React",
+          "Docker"
+        ]
+      },
+      "match": {
+        "id": 118886,
+        "name": "Caitlyn Maxwell",
+        "title": "UX Designer",
+        "summary": "Wall various foreign agency when. Question analysis drive example color draw difficult there.",
+        "skills": [
+          "Kubernetes",
+          "React",
+          "Docker",
+          "Python"
+        ]
+      },
+      "similarityScore": 0.9989543062808487,
+      "diffSummary": "No meaningful differences; both profiles have the same name, title, summary, and identical skills listed (only the order of skills differs)."
+    },
+    {
+      "entryA": {
+        "id": 16779,
+        "name": "Shawn Taylor",
+        "title": "UX Designer",
+        "summary": "Class on reach. Yourself affect station member. Another understand of.",
+        "skills": [
+          "CSS",
+          "Kubernetes",
+          "Docker"
+        ]
+      },
+      "match": {
+        "id": 116779,
+        "name": "Shawn Taylor",
+        "title": "Software Engineer",
+        "summary": "Class on reach. Yourself affect station member. Another understand of.",
+        "skills": [
+          "CSS",
+          "Kubernetes",
+          "Docker"
+        ]
+      },
+      "similarityScore": 0.9302898860561692,
+      "diffSummary": "Title changed from \"UX Designer\" to \"Software Engineer\"; skills and summary remain the same."
+    },
+    {
+      "entryA": {
+        "id": 18518,
+        "name": "Christian Buchanan",
+        "title": "Software Engineer",
+        "summary": "Job trial four easy case member.",
+        "skills": [
+          "Kubernetes",
+          "React",
+          "JavaScript"
+        ]
+      },
+      "match": {
+        "id": 118518,
+        "name": "Christian Buchanan",
+        "title": "DevOps Engineer",
+        "summary": "Job trial four easy case member.",
+        "skills": [
+          "Kubernetes",
+          "React",
+          "JavaScript"
+        ]
+      },
+      "similarityScore": 0.9685569469943475,
+      "diffSummary": "Title changed from \"Software Engineer\" to \"DevOps Engineer\"; skills and summary remain the same."
+    },
+    {
+      "entryA": {
+        "id": 11531,
+        "name": "Angel Russell",
+        "title": "DevOps Engineer",
+        "summary": "It job likely different. Drive loss turn attorney education every. Head against particularly listen down American focus.",
+        "skills": [
+          "AWS",
+          "Python",
+          "CSS",
+          "HTML"
+        ]
+      },
+      "match": {
+        "id": 25160,
+        "name": "Ryan Russell",
+        "title": "DevOps Engineer",
+        "summary": "That admit Mrs look call. Bank result peace reality evidence.",
+        "skills": [
+          "Node.js",
+          "HTML",
+          "AWS",
+          "CSS",
+          "React"
+        ]
+      },
+      "similarityScore": 0.6882955442740438,
+      "diffSummary": "Both profiles share the same title \"DevOps Engineer\" and have overlapping skills in AWS, HTML, and CSS. Key differences are:\n\n- Profile A includes Python, while Profile B replaces it with Node.js and adds React.\n- The summaries differ but are both nonspecific and unrelated to the role. \n\nNo title changes; main difference is in the skill set expansion and variation."
+    },
+    {
+      "entryA": {
+        "id": 17281,
+        "name": "Tracey Rodriguez",
+        "title": "UX Designer",
+        "summary": "Require agree inside thank.",
+        "skills": [
+          "JavaScript",
+          "Kubernetes",
+          "AWS"
+        ]
+      },
+      "match": {
+        "id": 114329,
+        "name": "Tracy Brown",
+        "title": "UX Designer",
+        "summary": "Garden economy others kind. Actually race tonight themselves.",
+        "skills": [
+          "Kubernetes",
+          "Python",
+          "Docker",
+          "React",
+          "SQL"
+        ]
+      },
+      "similarityScore": 0.7347780363378611,
+      "diffSummary": "Skills differ: Profile A lists JavaScript, Kubernetes, AWS; Profile B lists Kubernetes, Python, Docker, React, SQL. Names differ slightly (\"Tracey Rodriguez\" vs. \"Tracy Brown\"). Titles remain the same (\"UX Designer\"). Summaries differ in content but are both brief and nonspecific."
+    },
+    {
+      "entryA": {
+        "id": 13036,
+        "name": "Tim Reeves",
+        "title": "DevOps Engineer",
+        "summary": "Claim future in opportunity you exist me. Generation pick she picture send cultural. Computer on fast play fact. Alone improve heart decade care book.",
+        "skills": [
+          "React",
+          "Docker",
+          "SQL",
+          "AWS",
+          "HTML"
+        ]
+      },
+      "match": {
+        "id": 21687,
+        "name": "Mark Taylor",
+        "title": "DevOps Engineer",
+        "summary": "See different decide trip total another site car. Image throughout western world area. There certainly walk camera debate western store.",
+        "skills": [
+          "Docker",
+          "CSS",
+          "React"
+        ]
+      },
+      "similarityScore": 0.6422417202027447,
+      "diffSummary": "Both profiles share the same title, \"DevOps Engineer,\" but differ in skills and summary content. Profile A includes a broader skill set with SQL and AWS in addition to React, Docker, and HTML, whereas Profile B has a narrower focus with Docker, CSS, and React only. The summaries differ in wording and themes but do not indicate specific professional changes."
+    },
+    {
+      "entryA": {
+        "id": 12991,
+        "name": "Andre Ray",
+        "title": "DevOps Engineer",
+        "summary": "Politics religious back international. Catch check clearly ahead career manage tonight. Save respond friend budget while take important tell.",
+        "skills": [
+          "JavaScript",
+          "Docker",
+          "Kubernetes",
+          "React"
+        ]
+      },
+      "match": {
+        "id": 116450,
+        "name": "Andre Lang",
+        "title": "Software Engineer",
+        "summary": "Ask benefit ago again identify real. Follow so second.",
+        "skills": [
+          "SQL",
+          "Docker",
+          "Node.js",
+          "JavaScript",
+          "Kubernetes",
+          "CSS"
+        ]
+      },
+      "similarityScore": 0.7280456179274983,
+      "diffSummary": "Profile B differs from Profile A in the following key ways: the job title changed from \"DevOps Engineer\" to \"Software Engineer,\" and the skill set was expanded to include SQL, Node.js, and CSS in addition to JavaScript and Kubernetes, while React was removed. The summaries are both vague but differ in content."
+    },
+    {
+      "entryA": {
+        "id": 14120,
+        "name": "Grace Mason",
+        "title": "UX Designer",
+        "summary": "Reason treatment worker season figure they yeah. Hope likely fill improve image best. Challenge on plant wonder.",
+        "skills": [
+          "Python",
+          "JavaScript",
+          "HTML",
+          "Node.js",
+          "React"
+        ]
+      },
+      "match": {
+        "id": 118766,
+        "name": "Kayla Jones",
+        "title": "UX Designer",
+        "summary": "Notice receive degree run staff service government. Car material truth pattern ago other majority final.",
+        "skills": [
+          "AWS",
+          "Python",
+          "Node.js",
+          "Kubernetes",
+          "CSS"
+        ]
+      },
+      "similarityScore": 0.650143280081252,
+      "diffSummary": "Both profiles share the same title \"UX Designer\" but differ in their skill sets: Grace Mason focuses on front-end and web development technologies (JavaScript, HTML, React), while Kayla Jones has skills oriented towards cloud and infrastructure (AWS, Kubernetes) alongside Python and Node.js. The summaries are distinct but both are nonspecific."
+    },
+    {
+      "entryA": {
+        "id": 11436,
+        "name": "Ashley Maxwell",
+        "title": "DevOps Engineer",
+        "summary": "Popular word book read pass heart soldier action. Stage lose board laugh once effect.",
+        "skills": [
+          "Node.js",
+          "Python",
+          "Docker",
+          "SQL"
+        ]
+      },
+      "match": {
+        "id": 25722,
+        "name": "Melissa Barnes",
+        "title": "DevOps Engineer",
+        "summary": "Approach trip throughout free civil entire. Just nature increase trouble heart watch bed. Yet so before wrong.",
+        "skills": [
+          "JavaScript",
+          "HTML",
+          "SQL",
+          "AWS",
+          "CSS",
+          "Node.js"
+        ]
+      },
+      "similarityScore": 0.6204602812601822,
+      "diffSummary": "Both profiles share the same title, \"DevOps Engineer,\" but differ in skills and summary content. Profile A emphasizes Node.js, Python, Docker, and SQL, while Profile B includes JavaScript, HTML, CSS, SQL, AWS, and Node.js, indicating a broader front-end and cloud focus. The summaries differ in wording but are both nonspecific."
+    },
+    {
+      "entryA": {
+        "id": 16002,
+        "name": "Dr. Thomas Hoffman",
+        "title": "Software Engineer",
+        "summary": "Tv collection still support these military part. Just raise enough onto try.",
+        "skills": [
+          "Docker",
+          "CSS",
+          "Python",
+          "JavaScript"
+        ]
+      },
+      "match": {
+        "id": 116272,
+        "name": "Phillip Harris MD",
+        "title": "Software Engineer",
+        "summary": "Pull recent state old great notice north everything. Huge TV career. Not girl above course.",
+        "skills": [
+          "React",
+          "Docker",
+          "CSS",
+          "SQL"
+        ]
+      },
+      "similarityScore": 0.603826127736454,
+      "diffSummary": "Profile B differs from Profile A by having a different name and including \"MD\" as a credential. Both share the same title (\"Software Engineer\"), but their summaries differ in wording and content. Skills have changed: Profile A lists Python and JavaScript, whereas Profile B replaces these with React and SQL, while both include Docker and CSS."
+    },
+    {
+      "entryA": {
+        "id": 17809,
+        "name": "Jeremy Brown",
+        "title": "Software Engineer",
+        "summary": "Popular if do them. Lose big strategy. Nearly hour enter discover hair few participant.",
+        "skills": [
+          "Docker",
+          "React",
+          "JavaScript"
+        ]
+      },
+      "match": {
+        "id": 115823,
+        "name": "Joshua Williams",
+        "title": "Software Engineer",
+        "summary": "Hotel by year player image central.",
+        "skills": [
+          "Python",
+          "JavaScript",
+          "HTML"
+        ]
+      },
+      "similarityScore": 0.610847269464169,
+      "diffSummary": "Key differences:  \n- Skills differ: Profile A includes Docker and React, while Profile B includes Python and HTML; both share JavaScript.  \n- Summaries are distinct with no overlapping content.  \n- Titles are the same (\"Software Engineer\")."
+    },
+    {
+      "entryA": {
+        "id": 18319,
+        "name": "Joyce Rivers",
+        "title": "UX Designer",
+        "summary": "Not improve begin lot sport father. Speech catch ten statement carry next. Almost identify record.",
+        "skills": [
+          "JavaScript",
+          "Kubernetes",
+          "AWS",
+          "HTML",
+          "React",
+          "CSS"
+        ]
+      },
+      "match": {
+        "id": 118766,
+        "name": "Kayla Jones",
+        "title": "UX Designer",
+        "summary": "Notice receive degree run staff service government. Car material truth pattern ago other majority final.",
+        "skills": [
+          "AWS",
+          "Python",
+          "Node.js",
+          "Kubernetes",
+          "CSS"
+        ]
+      },
+      "similarityScore": 0.6543172048518235,
+      "diffSummary": "Both profiles share the same title, \"UX Designer.\" Key differences are in their skill sets: Profile A includes JavaScript, HTML, and React, whereas Profile B replaces these with Python and Node.js. Both have AWS, Kubernetes, and CSS. The summaries differ but are nonspecific and do not convey clear content differences."
+    },
+    {
+      "entryA": {
+        "id": 16775,
+        "name": "Michelle Rodriguez",
+        "title": "Software Engineer",
+        "summary": "Girl sister their rate drop marriage worker. Different many water meeting future. Fight institution school white.",
+        "skills": [
+          "AWS",
+          "JavaScript",
+          "CSS"
+        ]
+      },
+      "match": {
+        "id": 113334,
+        "name": "Angela Martinez",
+        "title": "DevOps Engineer",
+        "summary": "Store build before street break painting create wife. Look road article quickly.",
+        "skills": [
+          "AWS",
+          "Python",
+          "SQL",
+          "Node.js",
+          "JavaScript",
+          "CSS"
+        ]
+      },
+      "similarityScore": 0.6480547385855611,
+      "diffSummary": "Profile B differs from Profile A by having the title changed from \"Software Engineer\" to \"DevOps Engineer\" and an expanded skill set that adds Python, SQL, and Node.js to the shared AWS, JavaScript, and CSS skills. The summaries are both nonspecific and unrelated."
+    },
+    {
+      "entryA": {
+        "id": 16699,
+        "name": "Brianna Roberts",
+        "title": "Data Scientist",
+        "summary": "Process sit executive partner story budget great. Director remember place grow everyone win should.",
+        "skills": [
+          "Node.js",
+          "AWS",
+          "Python"
+        ]
+      },
+      "match": {
+        "id": 112919,
+        "name": "Brandon Chan",
+        "title": "Data Scientist",
+        "summary": "Especially change on.",
+        "skills": [
+          "AWS",
+          "Docker",
+          "JavaScript",
+          "Kubernetes",
+          "React"
+        ]
+      },
+      "similarityScore": 0.6213818110007184,
+      "diffSummary": "Profile A and Profile B both hold the title of Data Scientist, but their skill sets differ: Profile A lists Node.js, AWS, and Python, while Profile B includes AWS, Docker, JavaScript, Kubernetes, and React. Additionally, Profile A has a longer, though unclear, summary, whereas Profile B’s summary is very brief."
+    },
+    {
+      "entryA": {
+        "id": 13347,
+        "name": "Diane Garcia",
+        "title": "Data Scientist",
+        "summary": "Land general during cost. Material body himself home message woman.",
+        "skills": [
+          "Node.js",
+          "Python",
+          "JavaScript"
+        ]
+      },
+      "match": {
+        "id": 113038,
+        "name": "Gwendolyn Mendoza",
+        "title": "Data Scientist",
+        "summary": "Also friend reach choose coach north. Assume be seek article. Better news face.",
+        "skills": [
+          "Docker",
+          "Python",
+          "AWS"
+        ]
+      },
+      "similarityScore": 0.6126452204793398,
+      "diffSummary": "Key differences:  \n- Skills differ: Diane has Node.js and JavaScript, while Gwendolyn has Docker and AWS; both share Python.  \n- Summaries are distinct with no overlapping content.  \n- Titles are the same (\"Data Scientist\")."
+    },
+    {
+      "entryA": {
+        "id": 15804,
+        "name": "Kylie Montgomery",
+        "title": "Product Manager",
+        "summary": "Find discussion military ability line hour wear. Worker offer American behavior customer force. Congress recognize agreement well.",
+        "skills": [
+          "CSS",
+          "Node.js",
+          "React"
+        ]
+      },
+      "match": {
+        "id": 118766,
+        "name": "Kayla Jones",
+        "title": "UX Designer",
+        "summary": "Notice receive degree run staff service government. Car material truth pattern ago other majority final.",
+        "skills": [
+          "AWS",
+          "Python",
+          "Node.js",
+          "Kubernetes",
+          "CSS"
+        ]
+      },
+      "similarityScore": 0.6463846589190417,
+      "diffSummary": "Title differs: Profile A is Product Manager, Profile B is UX Designer.  \nSkills differ: Profile A has CSS, Node.js, React; Profile B has AWS, Python, Node.js, Kubernetes, CSS.  \nSummary content differs with no clear overlap."
+    },
+    {
+      "entryA": {
+        "id": 14063,
+        "name": "Joseph Anderson",
+        "title": "UX Designer",
+        "summary": "Various current scientist culture ability to suffer at. Unit dinner indeed listen. Job high she. West agreement girl happen front law care military.",
+        "skills": [
+          "Kubernetes",
+          "AWS",
+          "SQL"
+        ]
+      },
+      "match": {
+        "id": 112653,
+        "name": "Joseph Johnson",
+        "title": "UX Designer",
+        "summary": "Serious wrong section town deal movement out. Suddenly win parent do ten after those.",
+        "skills": [
+          "AWS",
+          "SQL",
+          "Docker",
+          "Kubernetes",
+          "React"
+        ]
+      },
+      "similarityScore": 0.7721180089587643,
+      "diffSummary": "Skills updated: Profile B adds Docker and React to the existing AWS, SQL, and Kubernetes. No change in title; both are UX Designers. Summaries differ but are both nonsensical and not meaningful."
+    },
+    {
+      "entryA": {
+        "id": 13132,
+        "name": "Brian Garcia",
+        "title": "Software Engineer",
+        "summary": "Per probably her of.",
+        "skills": [
+          "AWS",
+          "CSS",
+          "Kubernetes",
+          "React"
+        ]
+      },
+      "match": {
+        "id": 27472,
+        "name": "Lauren Rivera",
+        "title": "Software Engineer",
+        "summary": "Too dog among believe. Before open hot campaign throughout. Most ten cup far training opportunity difficult candidate. Election small certainly pattern daughter.",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "JavaScript",
+          "HTML",
+          "React",
+          "Docker"
+        ]
+      },
+      "similarityScore": 0.6557700463673566,
+      "diffSummary": "Profile B includes a more extensive skill set with additional technologies (JavaScript, HTML, Docker) compared to Profile A. Both share the same title, but Profile B has a longer, more detailed summary, whereas Profile A's summary is unclear or incomplete."
+    },
+    {
+      "entryA": {
+        "id": 15855,
+        "name": "Christina Romero",
+        "title": "DevOps Engineer",
+        "summary": "Black treat buy throw like lawyer fund. Effort bad measure star tell law.",
+        "skills": [
+          "React",
+          "Python",
+          "HTML",
+          "SQL",
+          "Docker"
+        ]
+      },
+      "match": {
+        "id": 113334,
+        "name": "Angela Martinez",
+        "title": "DevOps Engineer",
+        "summary": "Store build before street break painting create wife. Look road article quickly.",
+        "skills": [
+          "AWS",
+          "Python",
+          "SQL",
+          "Node.js",
+          "JavaScript",
+          "CSS"
+        ]
+      },
+      "similarityScore": 0.645684873208458,
+      "diffSummary": "Both profiles share the same title, \"DevOps Engineer,\" and have Python and SQL skills in common. Key differences are in their additional technical skills: Profile A includes React, HTML, and Docker, while Profile B features AWS, Node.js, JavaScript, and CSS. Their summaries differ in content but do not provide meaningful professional distinctions."
+    },
+    {
+      "entryA": {
+        "id": 16042,
+        "name": "Reginald Jenkins",
+        "title": "Data Scientist",
+        "summary": "Need when simple. Involve education little direction exist. Outside upon why mission because feel military.",
+        "skills": [
+          "React",
+          "CSS",
+          "Node.js",
+          "HTML",
+          "SQL",
+          "Python"
+        ]
+      },
+      "match": {
+        "id": 112046,
+        "name": "Alex Singh Jr.",
+        "title": "Data Scientist",
+        "summary": "Yet seven several might history. Decade not forget why under. Purpose mouth then class test check suffer star. Staff north weight guy personal follow situation over.",
+        "skills": [
+          "Python",
+          "Node.js",
+          "Kubernetes",
+          "CSS",
+          "HTML",
+          "React"
+        ]
+      },
+      "similarityScore": 0.6681830182818661,
+      "diffSummary": "Both profiles share the same title (\"Data Scientist\") and have overlapping core skills (Python, Node.js, CSS, HTML, React). Key differences are:\n\n- Profile B includes Kubernetes, which is not listed in Profile A.\n- The summaries differ in content and tone, with Profile A’s summary being shorter and more fragmented, while Profile B’s is longer and more complex."
+    },
+    {
+      "entryA": {
+        "id": 14877,
+        "name": "Theresa Moore",
+        "title": "Data Scientist",
+        "summary": "Thank source she light question in.",
+        "skills": [
+          "AWS",
+          "Docker",
+          "JavaScript",
+          "HTML",
+          "Python"
+        ]
+      },
+      "match": {
+        "id": 23225,
+        "name": "Dr. Derrick Brewer",
+        "title": "Data Scientist",
+        "summary": "Today mention next identify. Instead city type short rather spend similar. Once born control white.",
+        "skills": [
+          "Docker",
+          "React",
+          "AWS",
+          "HTML",
+          "Python",
+          "CSS"
+        ]
+      },
+      "similarityScore": 0.5709778922259415,
+      "diffSummary": "Profile B includes additional front-end skills (React, CSS) not present in Profile A. Both share core skills (AWS, Docker, HTML, Python), but Profile A lists JavaScript instead of React and CSS. The titles are the same (\"Data Scientist\"), but Profile B includes a \"Dr.\" honorific. Summaries differ but are both nonsensical."
+    },
+    {
+      "entryA": {
+        "id": 11336,
+        "name": "James Cobb",
+        "title": "UX Designer",
+        "summary": "Could foreign mind myself surface old charge. Management production up our allow maintain page fish. A artist drug them particular.",
+        "skills": [
+          "Python",
+          "React",
+          "Docker"
+        ]
+      },
+      "match": {
+        "id": 112087,
+        "name": "Sean Dixon",
+        "title": "UX Designer",
+        "summary": "Throughout treat relate respond. Role mind statement.",
+        "skills": [
+          "SQL",
+          "Docker",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      "similarityScore": 0.6638538447267227,
+      "diffSummary": "Both profiles share the same title, \"UX Designer.\" The key differences are in their skills and summary content:  \n- Profile A lists Python, React, and Docker, while Profile B lists SQL, Docker, CSS, and JavaScript.  \n- The summaries differ in wording and length, with Profile A having a longer, more abstract summary and Profile B a shorter, more concise one."
+    },
+    {
+      "entryA": {
+        "id": 15905,
+        "name": "Ashley Sheppard",
+        "title": "DevOps Engineer",
+        "summary": "Under plant expert raise management court. Newspaper ground just keep production suffer. Attack detail box choose view week remain.",
+        "skills": [
+          "React",
+          "Docker",
+          "SQL",
+          "AWS",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      "match": {
+        "id": 29903,
+        "name": "Sherry Davis",
+        "title": "DevOps Engineer",
+        "summary": "Have perform because technology important they tax. Executive military plan school certainly meet floor.",
+        "skills": [
+          "Docker",
+          "SQL",
+          "HTML",
+          "React",
+          "JavaScript",
+          "Node.js"
+        ]
+      },
+      "similarityScore": 0.6688255340239384,
+      "diffSummary": "Both profiles share the same title, \"DevOps Engineer,\" but differ slightly in their skill sets: Profile A includes AWS and CSS, whereas Profile B replaces these with HTML and Node.js. The summaries differ in content but are both nonspecific and unrelated to the roles."
+    },
+    {
+      "entryA": {
+        "id": 15064,
+        "name": "Jacob Williams",
+        "title": "UX Designer",
+        "summary": "Because include now so must. Whether protect most. Final name at painting room sell daughter.",
+        "skills": [
+          "HTML",
+          "JavaScript",
+          "Docker",
+          "Node.js",
+          "CSS"
+        ]
+      },
+      "match": {
+        "id": 113714,
+        "name": "Jason House",
+        "title": "UX Designer",
+        "summary": "Fear great easy plan PM more. Impact individual rock fly daughter fall. Before control board born painting child reflect. Control instead company where future model.",
+        "skills": [
+          "SQL",
+          "React",
+          "Kubernetes"
+        ]
+      },
+      "similarityScore": 0.6597295309778773,
+      "diffSummary": "Both profiles share the same title, \"UX Designer,\" but differ notably in their skill sets: Profile A lists front-end and backend development tools (HTML, JavaScript, Docker, Node.js, CSS), while Profile B emphasizes database, front-end framework, and container orchestration skills (SQL, React, Kubernetes). Their summaries differ in content and length, with Profile B providing a longer, more detailed narrative."
+    },
+    {
+      "entryA": {
+        "id": 17835,
+        "name": "Heather Miller",
+        "title": "Product Manager",
+        "summary": "Pass tend onto when happen.",
+        "skills": [
+          "Node.js",
+          "AWS",
+          "SQL",
+          "CSS",
+          "JavaScript",
+          "Python"
+        ]
+      },
+      "match": {
+        "id": 25594,
+        "name": "Heather Shepherd",
+        "title": "Product Manager",
+        "summary": "Yes miss interest rise her. Central baby picture.",
+        "skills": [
+          "AWS",
+          "Node.js",
+          "Docker",
+          "Kubernetes",
+          "Python"
+        ]
+      },
+      "similarityScore": 0.7961898633796752,
+      "diffSummary": "Skills differ: Profile A includes SQL and CSS, while Profile B adds Docker and Kubernetes but omits SQL and CSS. Names differ (Miller vs. Shepherd). Summaries are both nonsensical but distinct. Titles remain the same."
+    },
+    {
+      "entryA": {
+        "id": 12779,
+        "name": "Brian West",
+        "title": "Product Manager",
+        "summary": "Himself medical fund station enough become. Firm once machine western.",
+        "skills": [
+          "HTML",
+          "React",
+          "Kubernetes"
+        ]
+      },
+      "match": {
+        "id": 21656,
+        "name": "Billy Rodriguez",
+        "title": "Product Manager",
+        "summary": "During agency meet window now always hand game. Low trial water ability possible door pressure. Raise suggest six claim analysis school.",
+        "skills": [
+          "Docker",
+          "JavaScript",
+          "HTML",
+          "Node.js",
+          "Kubernetes"
+        ]
+      },
+      "similarityScore": 0.6262757564185117,
+      "diffSummary": "Profile B has a broader and more diverse skill set, including Docker, JavaScript, and Node.js in addition to HTML and Kubernetes found in Profile A. Both share the same title of Product Manager, but Profile B's summary is longer and more detailed compared to Profile A's brief and less coherent summary."
+    },
+    {
+      "entryA": {
+        "id": 17533,
+        "name": "Jessica Cruz",
+        "title": "Data Scientist",
+        "summary": "Its professor while seven.",
+        "skills": [
+          "Docker",
+          "React",
+          "Node.js",
+          "Kubernetes",
+          "HTML",
+          "SQL"
+        ]
+      },
+      "match": {
+        "id": 112919,
+        "name": "Brandon Chan",
+        "title": "Data Scientist",
+        "summary": "Especially change on.",
+        "skills": [
+          "AWS",
+          "Docker",
+          "JavaScript",
+          "Kubernetes",
+          "React"
+        ]
+      },
+      "similarityScore": 0.6255597434295217,
+      "diffSummary": "Key differences: Profile A includes SQL and Node.js skills, while Profile B includes AWS and JavaScript instead. Both share Docker, Kubernetes, and React. Summaries differ but are unclear; titles remain the same."
+    },
+    {
+      "entryA": {
+        "id": 13335,
+        "name": "Barbara Jordan",
+        "title": "Product Manager",
+        "summary": "Evening his gas health sort couple station my.",
+        "skills": [
+          "Python",
+          "Kubernetes",
+          "Node.js",
+          "React",
+          "JavaScript",
+          "HTML"
+        ]
+      },
+      "match": {
+        "id": 117634,
+        "name": "Victoria Patrick",
+        "title": "Product Manager",
+        "summary": "Better available sure form nice. Its particularly tree whom local tend.",
+        "skills": [
+          "AWS",
+          "Node.js",
+          "React",
+          "Kubernetes",
+          "Python",
+          "JavaScript"
+        ]
+      },
+      "similarityScore": 0.6704746350449146,
+      "diffSummary": "Both profiles share the same title (\"Product Manager\") and have largely overlapping technical skills (Python, Kubernetes, Node.js, React, JavaScript), but Profile B includes AWS while Profile A includes HTML instead. The summaries differ in content but are both nonsensical."
+    },
+    {
+      "entryA": {
+        "id": 18569,
+        "name": "Juan Martin",
+        "title": "Software Engineer",
+        "summary": "Pm election case. Party individual so attack. Bit avoid yourself campaign alone subject development.",
+        "skills": [
+          "SQL",
+          "Python",
+          "CSS",
+          "Kubernetes"
+        ]
+      },
+      "match": {
+        "id": 27472,
+        "name": "Lauren Rivera",
+        "title": "Software Engineer",
+        "summary": "Too dog among believe. Before open hot campaign throughout. Most ten cup far training opportunity difficult candidate. Election small certainly pattern daughter.",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "JavaScript",
+          "HTML",
+          "React",
+          "Docker"
+        ]
+      },
+      "similarityScore": 0.592843390041542,
+      "diffSummary": "Key differences:  \n- Skills differ significantly: Profile A lists SQL, Python, CSS, Kubernetes; Profile B lists AWS, Kubernetes, JavaScript, HTML, React, Docker.  \n- Both share the title \"Software Engineer.\"  \n- Summaries are distinct with no overlapping content."
+    },
+    {
+      "entryA": {
+        "id": 13559,
+        "name": "Russell Robinson",
+        "title": "UX Designer",
+        "summary": "Human participant seat give especially. Wind natural customer letter finish campaign.",
+        "skills": [
+          "Python",
+          "Kubernetes",
+          "Node.js",
+          "SQL",
+          "HTML",
+          "React"
+        ]
+      },
+      "match": {
+        "id": 114826,
+        "name": "Russell Jones",
+        "title": "DevOps Engineer",
+        "summary": "Great top series public none sound.",
+        "skills": [
+          "React",
+          "SQL",
+          "HTML"
+        ]
+      },
+      "similarityScore": 0.6552733028566863,
+      "diffSummary": "Title changed from \"DevOps Engineer\" to \"UX Designer\"; skills expanded from React, SQL, HTML to include Python, Kubernetes, and Node.js; summary content differs but is nonspecific."
+    },
+    {
+      "entryA": {
+        "id": 11354,
+        "name": "Paula Smith",
+        "title": "Software Engineer",
+        "summary": "The site follow be add. Coach every cut never. Become me story but order leg food.",
+        "skills": [
+          "JavaScript",
+          "CSS",
+          "SQL",
+          "Node.js",
+          "Kubernetes"
+        ]
+      },
+      "match": {
+        "id": 118766,
+        "name": "Kayla Jones",
+        "title": "UX Designer",
+        "summary": "Notice receive degree run staff service government. Car material truth pattern ago other majority final.",
+        "skills": [
+          "AWS",
+          "Python",
+          "Node.js",
+          "Kubernetes",
+          "CSS"
+        ]
+      },
+      "similarityScore": 0.6293011685048003,
+      "diffSummary": "Title differs: Profile A is a Software Engineer, Profile B is a UX Designer.  \nSkills overlap in Node.js, Kubernetes, and CSS; Profile A includes JavaScript and SQL, while Profile B includes AWS and Python.  \nSummaries are different and unrelated in content."
+    },
+    {
+      "entryA": {
+        "id": 17491,
+        "name": "Mark Nunez",
+        "title": "UX Designer",
+        "summary": "Age account suffer. That product first natural.",
+        "skills": [
+          "SQL",
+          "AWS",
+          "CSS"
+        ]
+      },
+      "match": {
+        "id": 119643,
+        "name": "Mark Miller",
+        "title": "UX Designer",
+        "summary": "Ability recognize peace account fear. Feeling participant interest seem begin marriage which myself.",
+        "skills": [
+          "JavaScript",
+          "Kubernetes",
+          "AWS"
+        ]
+      },
+      "similarityScore": 0.69572587139796,
+      "diffSummary": "Skills differ: Profile A includes SQL and CSS, while Profile B includes JavaScript and Kubernetes; both share AWS. Summaries differ in content but both are vague. Titles remain the same (\"UX Designer\"). Names differ (Mark Nunez vs. Mark Miller)."
+    },
+    {
+      "entryA": {
+        "id": 14211,
+        "name": "Amber Erickson",
+        "title": "DevOps Engineer",
+        "summary": "Employee argue home exactly. Effect fine speak majority large. Interest college anything relationship.",
+        "skills": [
+          "JavaScript",
+          "Python",
+          "SQL"
+        ]
+      },
+      "match": {
+        "id": 113334,
+        "name": "Angela Martinez",
+        "title": "DevOps Engineer",
+        "summary": "Store build before street break painting create wife. Look road article quickly.",
+        "skills": [
+          "AWS",
+          "Python",
+          "SQL",
+          "Node.js",
+          "JavaScript",
+          "CSS"
+        ]
+      },
+      "similarityScore": 0.6556953167556401,
+      "diffSummary": "Profile B has a broader and more diverse skill set, including AWS, Node.js, and CSS in addition to Python, SQL, and JavaScript found in Profile A. Both share the same title, DevOps Engineer, but Profile B’s summary is different and slightly more varied in content."
+    }
+  ]
+}
