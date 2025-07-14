@@ -1,0 +1,29 @@
+{
+  "name": "dataset-comparison-app",
+  "version": "1.0.0",
+  "description": "A TypeScript/Bun app that compares two datasets using LLM to identify semantically similar entries",
+  "main": "index.ts",
+  "scripts": {
+    "start": "bun run index.ts",
+    "dev": "bun run index.ts"
+  },
+  "dependencies": {
+    "cos-similarity": "^2.0.0",
+    "openai": "^5.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.13",
+    "typescript": "^5.8.3"
+  },
+  "type": "module",
+  "keywords": [
+    "llm",
+    "embeddings",
+    "dataset",
+    "comparison",
+    "typescript",
+    "bun"
+  ],
+  "author": "",
+  "license": "MIT"
+}
