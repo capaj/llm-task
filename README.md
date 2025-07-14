@@ -110,7 +110,7 @@ The application uses TypeScript interfaces for type safety:
 - **BATCH_SIZE**: Number of entries processed in parallel (default: 10)
 - **RATE_LIMIT_DELAY**: Delay between batches in milliseconds (default: 1000)
 - **Embedding Model**: text-embedding-3-small (OpenAI)
-- **Chat Model**: gpt-3.5-turbo (OpenAI)
+- **Chat Model**: gpt-4.1-mini (OpenAI)
 
 ## Error Handling
 
